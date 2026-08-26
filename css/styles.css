@@ -80,10 +80,58 @@ header {
 }
 
 .icon_link {
+<<<<<<< HEAD
+=======
+  color: #000000;
+  padding: 0.5rem 0.5rem;
+  border-radius: 50%;
+  transition: 0.4s;
+}
+
+.icon_link:hover {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 -8px 16px #0002;
+  padding: 1rem;
+}
+
+.flogo_image {
+  width: 30px;
+  height: 30px;
+  padding: 1rem;
+}
+
+.flogo_img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.fpara {
+  font-size: 12px;
+  padding: 1rem;
+}
+
+.fmenu_list {
+  display: flex;
+  gap: 0.5rem;
+  font-size: 12px;
+  padding: 1rem;
+}
+
+.fmenu_link {
+>>>>>>> 2eb109e3fc7ab6c4932d310fbf19628f11e81ac6
   color: #000;
   transition: 0.4s;
 }
 
+<<<<<<< HEAD
 .icon_item:hover .icon_link {
   color: #fff;
 }
@@ -98,3 +146,9 @@ footer{
 }
 
 /* End of the Footer */
+=======
+.fmenu_link:hover{
+  background-color: #000;
+  color: #ffffff;
+}
+>>>>>>> 2eb109e3fc7ab6c4932d310fbf19628f11e81ac6
