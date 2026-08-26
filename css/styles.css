@@ -57,7 +57,7 @@ header {
 .icon_link {
   color: #000000;
   padding: 0.5rem 0.5rem;
-  border-radius: 40px;
+  border-radius: 50%;
   transition: 0.4s;
 }
 
